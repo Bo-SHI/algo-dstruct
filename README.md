@@ -1,3 +1,3 @@
-# algo-dstruct
+### algorithm
 
-data structures and algoritm analysis in c
+> data structures and algoritm analysis in c
